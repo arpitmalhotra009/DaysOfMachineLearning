@@ -25,7 +25,7 @@ In this project, I have build the K-NN Regression Model from Scratch, which mean
 
 The Scikit Learn Library is used to generate a dummy dataset on which KNN Regression is applied. This project has many useful concepts for a newbee in the field of Machine Learning.
 
-## [Forth Project: Image Compression Using K-Means Clustering and PCA](https://github.com/arpitmalhotra009/DaysOfMachineLearning/blob/master/Image%20Compression%20using%20K_Means-and-PCA/Image%20Compression%20Using%20K_Means%20Algorithm%20and%20PCA.ipynb)
+## [Fourth Project: Image Compression Using K-Means Clustering and PCA](https://github.com/arpitmalhotra009/DaysOfMachineLearning/blob/master/Image%20Compression%20using%20K_Means-and-PCA/Image%20Compression%20Using%20K_Means%20Algorithm%20and%20PCA.ipynb)
 
 In project is related to a very interesting application of K-Means Clustering. In the project on can see how K-Means Clustering can help in Dimensionality reduction and the results are compared with a very popular Dimensionality reduction Technique Principle Component Analysis.
 
